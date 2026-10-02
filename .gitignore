@@ -13,3 +13,9 @@ node_modules/
 figuresense-review*.json
 private-data/
 consent-forms/
+
+# Approved public FigureSense demonstration assets
+!demo-assets/xavier-ballet-leg-demo.mp4
+!downloads/FigureSense-Demo.zip
+
+/downloads/FigureSense-Demo.html
